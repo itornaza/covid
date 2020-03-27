@@ -1,7 +1,6 @@
 #ifndef ION_COVID_H_
 #define ION_COVID_H_
 
-#include <ctime>
 #include <string>
 
 // Types
