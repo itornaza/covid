@@ -1,4 +1,4 @@
-#covid
+# covid
 
 A simple cpp program that generates the gnuplot command that is needed to plot the country curves at the same scale for direct comparisson.
 
