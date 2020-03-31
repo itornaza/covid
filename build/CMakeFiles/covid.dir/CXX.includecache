@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ion-/Projects/cpp/covid/src/covid.cpp
+cstdlib
+-
+iostream
+-
+iterator
+-
+string
+-
+sstream
+-
+vector
+-
+covid.h
+/Users/ion-/Projects/cpp/covid/src/covid.h
+
+/Users/ion-/Projects/cpp/covid/src/covid.h
+string
+-
+

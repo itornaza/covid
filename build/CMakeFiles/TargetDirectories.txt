@@ -1,0 +1,3 @@
+/Users/ion-/Projects/cpp/covid/build/CMakeFiles/rebuild_cache.dir
+/Users/ion-/Projects/cpp/covid/build/CMakeFiles/edit_cache.dir
+/Users/ion-/Projects/cpp/covid/build/CMakeFiles/covid.dir
